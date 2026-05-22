@@ -1,0 +1,6 @@
+creditcard.csv
+venv/
+.venv/
+__pycache__/
+fraud-detector-data/
+*.pyc
