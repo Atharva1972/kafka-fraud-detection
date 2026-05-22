@@ -58,3 +58,4 @@ python producer.py
 - `consumer.py` — Reads `predictions` topic and prints results to console
 
 ## Video Demo
+https://youtu.be/1baaUbIdeIk
